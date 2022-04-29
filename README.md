@@ -19,4 +19,5 @@ After cloning this code:
 
 
 *It might not be working as the postgres database is local (not on the cloud) at the moment.*
-*Will fix this later*
+*Will fix this later*.
+*if you just wanna play around with django you don't need to use Postges, just use the default Sqlite database come along with Django.*
